@@ -21,3 +21,5 @@ window.jQuery = $
 window.$ = $
 
 import 'bootstrap'
+import '../stylesheets/application'
+import './custom'
