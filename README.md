@@ -1,24 +1,12 @@
-# README
+# Bootstrap4WithRails6
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a demo application to setup Bootstrap 4 with Rails 6 Application.
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  * Ruby 2.5.5
+  * Postgresql
+  * `git clone https://github.com/kalpanasharma-0795/bootstrap4withRails6.git`
+  * `cd bootstrap4withRails6`
+  * `bundle install`
+  * `rails db:create`
